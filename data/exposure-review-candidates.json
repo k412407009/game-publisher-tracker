@@ -1,0 +1,595 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-20T02:34:47.280Z",
+    "totalProducts": 438,
+    "policy": "用户点名产品，或 Google Play 下载量下限≥1万且位于累计营收/累计下载贡献前70%的产品。前50%标为核心优先级。",
+    "thresholdOnlyWouldSelect": 412,
+    "selected": 34,
+    "top50Core": 15,
+    "top70Secondary": 17,
+    "namedExamples": 2,
+    "coverage": {
+      "revenue50": 0.5346076352454494,
+      "revenue70": 0.7041671546740883,
+      "downloads50": 0.5180676752026788,
+      "downloads70": 0.7047170632245708
+    }
+  },
+  "candidates": [
+    {
+      "appId": "com.loadcomplete.minitales",
+      "title": "Mini Tales",
+      "account": "LoadComplete",
+      "companyZh": "LoadComplete",
+      "url": "https://play.google.com/store/apps/details?id=com.loadcomplete.minitales",
+      "minInstalls": 100000,
+      "currentFirstPublicDate": "2025-09-19",
+      "currentFirstPublicKind": "exposure",
+      "priority": "named-example",
+      "selectionReasons": [
+        "用户点名复核",
+        "Google Play 下载量下限≥1万"
+      ]
+    },
+    {
+      "appId": "com.percent.aos.randomdice2",
+      "title": "Random Dice 2",
+      "account": "111%",
+      "companyZh": "111Percent",
+      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.randomdice2",
+      "minInstalls": 0,
+      "currentFirstPublicDate": "2026-08-10",
+      "currentFirstPublicKind": "store",
+      "priority": "named-example",
+      "selectionReasons": [
+        "用户点名复核"
+      ]
+    },
+    {
+      "appId": "com.qjzj4399kr.google",
+      "title": "기적의 검",
+      "account": "4399 KOREA",
+      "companyZh": "4399",
+      "url": "https://play.google.com/store/apps/details?id=com.qjzj4399kr.google",
+      "minInstalls": 1000000,
+      "revenueCumulativeWorldwideUsd": 297743751.01,
+      "downloadsCumulativeWorldwide": 6359706,
+      "currentFirstPublicDate": "2019-09-07",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.dxx.firenow",
+      "title": "Survivor.io",
+      "account": "Habby",
+      "companyZh": "海彼",
+      "url": "https://play.google.com/store/apps/details?id=com.dxx.firenow",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 150961202.9,
+      "downloadsCumulativeWorldwide": 49066191,
+      "currentFirstPublicDate": "2022-07-19",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.habby.archero",
+      "title": "Archero",
+      "account": "Habby",
+      "companyZh": "海彼",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.archero",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 115006649.94,
+      "downloadsCumulativeWorldwide": 58851717,
+      "currentFirstPublicDate": "2019-04-09",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献前50%",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.percent.royaldice",
+      "title": "Random Dice Defense : PvP TD",
+      "account": "111%",
+      "companyZh": "111Percent",
+      "url": "https://play.google.com/store/apps/details?id=com.percent.royaldice",
+      "minInstalls": 10000000,
+      "revenueCumulativeWorldwideUsd": 71819808.11,
+      "downloadsCumulativeWorldwide": 13201125,
+      "currentFirstPublicDate": "2019-08-27",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.percent.aos.luckydefense",
+      "title": "Lucky Defense",
+      "account": "111%",
+      "companyZh": "111Percent",
+      "url": "https://play.google.com/store/apps/details?id=com.percent.aos.luckydefense",
+      "minInstalls": 5000000,
+      "revenueCumulativeWorldwideUsd": 70711460.73,
+      "downloadsCumulativeWorldwide": 4892853,
+      "currentFirstPublicDate": "2024-05-22",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.vincentb.MobControl",
+      "title": "Mob Control",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 41201091.24,
+      "downloadsCumulativeWorldwide": 284683159,
+      "currentFirstPublicDate": "2021-04-28",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献50%～70%",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "games.vaveda.militaryoverturn",
+      "title": "Tower War - Tactical Conquest",
+      "account": "SayGames Ltd",
+      "companyZh": "SayGames",
+      "url": "https://play.google.com/store/apps/details?id=games.vaveda.militaryoverturn",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 18546041.91,
+      "downloadsCumulativeWorldwide": 120235882,
+      "currentFirstPublicDate": "2021-06-23",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.master.hotelmaster",
+      "title": "My Perfect Hotel",
+      "account": "SayGames Ltd",
+      "companyZh": "SayGames",
+      "url": "https://play.google.com/store/apps/details?id=com.master.hotelmaster",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 6676233.48,
+      "downloadsCumulativeWorldwide": 205258015,
+      "currentFirstPublicDate": "2022-04-12",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "io.voodoo.holeio",
+      "title": "Hole.io",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 2846586.77,
+      "downloadsCumulativeWorldwide": 416673139,
+      "currentFirstPublicDate": "2018-06-20",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "io.supercent.pizzaidle",
+      "title": "Pizza Ready!",
+      "account": "Supercent, Inc.",
+      "companyZh": "Supercent",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 2772116.3,
+      "downloadsCumulativeWorldwide": 430568422,
+      "currentFirstPublicDate": "2023-07-03",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "io.supercent.linkedcubic",
+      "title": "Snake Clash!",
+      "account": "Supercent, Inc.",
+      "companyZh": "Supercent",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 1946694.6,
+      "downloadsCumulativeWorldwide": 199034752,
+      "currentFirstPublicDate": "2023-05-23",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "io.voodoo.paper2",
+      "title": "Paper.io 2",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 1868214.34,
+      "downloadsCumulativeWorldwide": 461997664,
+      "currentFirstPublicDate": "2018-09-12",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.h8games.helixjump",
+      "title": "Helix Jump",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=com.h8games.helixjump",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 408602.6,
+      "downloadsCumulativeWorldwide": 371025831,
+      "currentFirstPublicDate": "2018-03-11",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.cassette.aquapark",
+      "title": "Aquapark.io",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=com.cassette.aquapark",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 228454.54,
+      "downloadsCumulativeWorldwide": 358156243,
+      "currentFirstPublicDate": "2019-06-13",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.orbitalknight.ridiculousfreekick",
+      "title": "Crazy Kick! Fun Football game",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=com.orbitalknight.ridiculousfreekick",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 120330.26,
+      "downloadsCumulativeWorldwide": 119546794,
+      "currentFirstPublicDate": "2019-08-29",
+      "currentFirstPublicKind": "store",
+      "priority": "top-50-core",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献前50%"
+      ]
+    },
+    {
+      "appId": "com.lmdl4399kr.google",
+      "title": "헌터W",
+      "account": "4399 KOREA",
+      "companyZh": "4399",
+      "url": "https://play.google.com/store/apps/details?id=com.lmdl4399kr.google",
+      "minInstalls": 500000,
+      "revenueCumulativeWorldwideUsd": 66107194.69,
+      "downloadsCumulativeWorldwide": 13554394,
+      "currentFirstPublicDate": "2022-06-21",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.habby.capybara",
+      "title": "Capybara Go!",
+      "account": "Habby",
+      "companyZh": "海彼",
+      "url": "https://play.google.com/store/apps/details?id=com.habby.capybara",
+      "minInstalls": 10000000,
+      "revenueCumulativeWorldwideUsd": 59874764.57,
+      "downloadsCumulativeWorldwide": 15191051,
+      "currentFirstPublicDate": "2024-09-26",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.xq.archeroii",
+      "title": "Archero 2",
+      "account": "Habby",
+      "companyZh": "海彼",
+      "url": "https://play.google.com/store/apps/details?id=com.xq.archeroii",
+      "minInstalls": 5000000,
+      "revenueCumulativeWorldwideUsd": 56813380.15,
+      "downloadsCumulativeWorldwide": 8497182,
+      "currentFirstPublicDate": "2024-10-14",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计营收贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.tarboosh.collectemall",
+      "title": "Collect Em All! Clear the Dots",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=com.tarboosh.collectemall",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 6688306.1,
+      "downloadsCumulativeWorldwide": 57244853,
+      "currentFirstPublicDate": "2021-09-12",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.higgs.tilemaster3d",
+      "title": "Tile Master 3D®-Matching Games",
+      "account": "Higgs Studio",
+      "companyZh": "波克城市",
+      "url": "https://play.google.com/store/apps/details?id=com.higgs.tilemaster3d",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 4068698.85,
+      "downloadsCumulativeWorldwide": 106724091,
+      "currentFirstPublicDate": "2021-04-08",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.playstrom.hero.tower",
+      "title": "TDS - Tower Destiny Survive",
+      "account": "SayGames Ltd",
+      "companyZh": "SayGames",
+      "url": "https://play.google.com/store/apps/details?id=com.playstrom.hero.tower",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 2684212.92,
+      "downloadsCumulativeWorldwide": 54370435,
+      "currentFirstPublicDate": "2024-04-04",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.higgs.cubemaster3d",
+      "title": "Cube Master 3D®:Matching Game",
+      "account": "Higgs Studio",
+      "companyZh": "波克城市",
+      "url": "https://play.google.com/store/apps/details?id=com.higgs.cubemaster3d",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 2505185.41,
+      "downloadsCumulativeWorldwide": 55098913,
+      "currentFirstPublicDate": "2021-07-16",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.nomonkeys.ballblast",
+      "title": "Ball Blast Cannon blitz mania",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=com.nomonkeys.ballblast",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 2425828.02,
+      "downloadsCumulativeWorldwide": 64732504,
+      "currentFirstPublicDate": "2018-09-12",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "archery.clash.tournament",
+      "title": "Archery Clash!",
+      "account": "VOODOO",
+      "companyZh": "Voodoo",
+      "url": "https://play.google.com/store/apps/details?id=archery.clash.tournament",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 1905493.05,
+      "downloadsCumulativeWorldwide": 58576254,
+      "currentFirstPublicDate": "2024-02-04",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.tilemaster.puzzle.block.match",
+      "title": "Tile Master® - Matching Game",
+      "account": "Higgs Studio",
+      "companyZh": "波克城市",
+      "url": "https://play.google.com/store/apps/details?id=com.tilemaster.puzzle.block.match",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 1442541.5,
+      "downloadsCumulativeWorldwide": 100494852,
+      "currentFirstPublicDate": "2020-02-21",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "link.merge.puzzle.onnect.number",
+      "title": "Tile Connect - Matching Games",
+      "account": "Higgs Studio",
+      "companyZh": "波克城市",
+      "url": "https://play.google.com/store/apps/details?id=link.merge.puzzle.onnect.number",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 1379199.27,
+      "downloadsCumulativeWorldwide": 89214654,
+      "currentFirstPublicDate": "2020-08-23",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.superbox.aos.fire2048",
+      "title": "Drop The Number® : Merge Game",
+      "account": "SUPERBOX Inc",
+      "companyZh": "SUPERBOX",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.fire2048",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 1353864.46,
+      "downloadsCumulativeWorldwide": 68500463,
+      "currentFirstPublicDate": "2019-03-27",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "io.supercent.burgeridle",
+      "title": "Burger Please!",
+      "account": "Supercent, Inc.",
+      "companyZh": "Supercent",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.burgeridle",
+      "minInstalls": 100000000,
+      "revenueCumulativeWorldwideUsd": 581370.61,
+      "downloadsCumulativeWorldwide": 108090872,
+      "currentFirstPublicDate": "2023-02-06",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.idle.egg.factory.inc.tycoon",
+      "title": "Idle Egg Factory",
+      "account": "Solid Games",
+      "companyZh": "Solid Games",
+      "url": "https://play.google.com/store/apps/details?id=com.idle.egg.factory.inc.tycoon",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 312885.02,
+      "downloadsCumulativeWorldwide": 66484545,
+      "currentFirstPublicDate": "2021-07-04",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "dasi.prs2.lumberchopper",
+      "title": "Idle Lumber Chopper Empire Inc",
+      "account": "Supercent, Inc.",
+      "companyZh": "Supercent",
+      "url": "https://play.google.com/store/apps/details?id=dasi.prs2.lumberchopper",
+      "minInstalls": 10000000,
+      "revenueCumulativeWorldwideUsd": 98782.95,
+      "downloadsCumulativeWorldwide": 53367001,
+      "currentFirstPublicDate": "2024-09-09",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "io.supercent.prison",
+      "title": "Prison Life: Idle Game",
+      "account": "Supercent, Inc.",
+      "companyZh": "Supercent",
+      "url": "https://play.google.com/store/apps/details?id=io.supercent.prison",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 55518.63,
+      "downloadsCumulativeWorldwide": 60130308,
+      "currentFirstPublicDate": "2023-11-16",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    },
+    {
+      "appId": "com.kadka.forknsausage",
+      "title": "Fork N Sausage",
+      "account": "SayGames Ltd",
+      "companyZh": "SayGames",
+      "url": "https://play.google.com/store/apps/details?id=com.kadka.forknsausage",
+      "minInstalls": 50000000,
+      "revenueCumulativeWorldwideUsd": 29547.03,
+      "downloadsCumulativeWorldwide": 67133918,
+      "currentFirstPublicDate": "2021-03-31",
+      "currentFirstPublicKind": "store",
+      "priority": "top-70",
+      "selectionReasons": [
+        "Google Play 下载量下限≥1万",
+        "累计下载贡献50%～70%"
+      ]
+    }
+  ]
+}

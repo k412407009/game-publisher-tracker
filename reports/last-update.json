@@ -1,0 +1,438 @@
+{
+  "generatedAt": "2026-10-29T06:43:51.501Z",
+  "market": "US",
+  "language": "en",
+  "accounts": 61,
+  "products": 1064,
+  "added": [
+    {
+      "appId": "com.honey.hunt.puzzle",
+      "title": "Honey Hunt",
+      "account": "Higgs Studio"
+    },
+    {
+      "appId": "train.parking.railway.escape.jam.out",
+      "title": "Train Jam: Railway Escape",
+      "account": "Higgs Studio"
+    },
+    {
+      "appId": "puzzle.sand.bus.escape",
+      "title": "Sand Bus Escape!",
+      "account": "Bravestars Games"
+    },
+    {
+      "appId": "casual.cat.merge.party",
+      "title": "Cat Merge Party",
+      "account": "Bravestars Games"
+    },
+    {
+      "appId": "tap.jewel.gem.coloring.pixel.jam.puzzle",
+      "title": "Tap Jewel: Color Pixel Puzzle",
+      "account": "Higgs Studio"
+    },
+    {
+      "appId": "com.studio501.liquidblocks",
+      "title": "Liquid Blocks",
+      "account": "Barbozo"
+    },
+    {
+      "appId": "com.supersonic.bouncemerge",
+      "title": "Bounce Merge",
+      "account": "Supersonic Studios LTD"
+    },
+    {
+      "appId": "com.grandgames.arrowjam",
+      "title": "Maze Out! - Tap Puzzle",
+      "account": "Grand Games A.Ş."
+    },
+    {
+      "appId": "com.nep.tr.hybrid.punchhero",
+      "title": "Punch Hero",
+      "account": "TREEPLLA"
+    },
+    {
+      "appId": "com.bosscat.defense",
+      "title": "Cat Squad: Tree Raid",
+      "account": "NLABSOFT Co., Ltd."
+    },
+    {
+      "appId": "com.oakever.amaze3d",
+      "title": "Amaze Clear 3D: Arrow Cube",
+      "account": "Oakever Games"
+    },
+    {
+      "appId": "com.superbox.aos.catshooter",
+      "title": "Meow Blast!",
+      "account": "SUPERBOX Inc"
+    },
+    {
+      "appId": "com.nep.tr.hybrid.humandrop",
+      "title": "Off You Go!",
+      "account": "TREEPLLA"
+    },
+    {
+      "appId": "com.studio501.beadsjam",
+      "title": "Beads Jam",
+      "account": "Barbozo"
+    },
+    {
+      "appId": "com.supersonic.bulldoku",
+      "title": "Bulldoku: Dog Logic Puzzle",
+      "account": "Supersonic Studios LTD"
+    },
+    {
+      "appId": "puzzle.swarm.sort",
+      "title": "Swarm Sort!",
+      "account": "Bravestars Games"
+    },
+    {
+      "appId": "net.pixelrabbit.cs",
+      "title": "Life is a Roguelike",
+      "account": "PIXEL RABBIT LIMITED"
+    },
+    {
+      "appId": "puzzle.crowd.bus.flow",
+      "title": "Crowd Bus Flow!",
+      "account": "Bravestars Games"
+    },
+    {
+      "appId": "puzzle.rotate.rings",
+      "title": "Ring Twist Puzzle!",
+      "account": "Bravestars Games"
+    },
+    {
+      "appId": "com.ring.master",
+      "title": "Ring Master: Rotate Circles",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.tapugo.footballstar",
+      "title": "Footballer - Soccer Simulator",
+      "account": "Freeplay Inc"
+    },
+    {
+      "appId": "com.ig.fish.up.match",
+      "title": "Fish Up!",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "com.oakever.sortparade",
+      "title": "Sort Streak: Color Puzzle",
+      "account": "Oakever Games"
+    },
+    {
+      "appId": "com.oakever.pairzzle",
+      "title": "Twindoku: Logic Game",
+      "account": "Oakever Games"
+    },
+    {
+      "appId": "com.TeamSparta.CSD",
+      "title": "Magic Defense: Co-op Wizard TD",
+      "account": "Teamsparta Inc."
+    },
+    {
+      "appId": "com.tank.busters",
+      "title": "Tank Busters: Cannon Battle",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.path.layers",
+      "title": "Path Layers — Color Puzzle",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.SuperDuperGames.BounceDefenders",
+      "title": "Bounce Defenders",
+      "account": "Rollic Games"
+    },
+    {
+      "appId": "com.wave.infinitecrafter",
+      "title": "Infinite Crafter (TD)",
+      "account": "Rollic Games"
+    },
+    {
+      "appId": "com.oakever.akari",
+      "title": "Light Up: Logic Puzzle",
+      "account": "Oakever Games"
+    },
+    {
+      "appId": "com.shotit.voxelpuzzle",
+      "title": "Shoot It 3D: Voxel Puzzle",
+      "account": "Supersonic Studios LTD"
+    },
+    {
+      "appId": "com.COGInteractive.BalInHole",
+      "title": "Marbles Maze",
+      "account": "Supersonic Studios LTD"
+    },
+    {
+      "appId": "com.ludens.WeaponBallMasters",
+      "title": "Ball of Ages",
+      "account": "Rollic Games"
+    },
+    {
+      "appId": "com.SaltCastleStudio.CannonCastle3D",
+      "title": "Castle Rivals",
+      "account": "VOODOO"
+    },
+    {
+      "appId": "com.ig.gecko.arrorws",
+      "title": "Gecko Go",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "com.onicore.space",
+      "title": "Star Overlord",
+      "account": "NOODLE GAMES LIMITED"
+    },
+    {
+      "appId": "com.dreamymart.meow.lswq",
+      "title": "Dreamy Meow Mart",
+      "account": "Solid Games"
+    },
+    {
+      "appId": "com.ig.coffee.rush",
+      "title": "Color Block: Coffee Jam",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "com.rod.epicbomber",
+      "title": "Angry Plane Challenge: Evolve",
+      "account": "Freeplay Inc"
+    },
+    {
+      "appId": "com.ig.wood.block.puzzle",
+      "title": "Wood Away, Block Jam",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "sushi.match.pack.sort.fever.merge",
+      "title": "Sushi Bar - Sort Master",
+      "account": "Moon Ship Studio"
+    },
+    {
+      "appId": "io.whitesharx.moon",
+      "title": "Gold Rush: Frozen Farm",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.ig.coffee.jam",
+      "title": "Coffee Craze - Sorting Game",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "io.supercent.burgersimulator",
+      "title": "Burger Simulator!",
+      "account": "Supercent, Inc."
+    },
+    {
+      "appId": "com.game.unravelme",
+      "title": "Rope Puzzle: Twisted Master",
+      "account": "Freeplay Inc"
+    },
+    {
+      "appId": "com.emergency.idlegame.lczydl",
+      "title": "Emergency mission - idle game",
+      "account": "Solid Games"
+    },
+    {
+      "appId": "com.jedi.renovation",
+      "title": "Renovation Day: House Makeover",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "ball.sorting.color.tube.puzzle.games",
+      "title": "Color Ball Sort - Puzzle Game",
+      "account": "Higgs Studio"
+    },
+    {
+      "appId": "com.aredstudio.beachresort",
+      "title": "My Beach Resort!",
+      "account": "Supercent, Inc."
+    },
+    {
+      "appId": "com.ig.screw.jam.nuts.bolts",
+      "title": "Screw Out: Nuts and Bolts",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "com.hegames.stacknsort",
+      "title": "Stack N Sort",
+      "account": "VOODOO"
+    },
+    {
+      "appId": "com.ig.goods.sort",
+      "title": "Sorting Master, Match 3D",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "com.ig.ball.sort.color.puzzle",
+      "title": "Ball Sort - Color Sort Puzzle",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "com.Albus.WaterParkBoys",
+      "title": "WaterPark Boys",
+      "account": "Supercent, Inc."
+    },
+    {
+      "appId": "com.blocky.quest",
+      "title": "Blocky Quest - Classic Puzzle",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.idle.aircraft.carrier.tycoon",
+      "title": "Idle Aircraft Carrier",
+      "account": "Solid Games"
+    },
+    {
+      "appId": "com.wixot.parkingmanagement",
+      "title": "Car Lot Management",
+      "account": "Rollic Games"
+    },
+    {
+      "appId": "com.game.rope.and.balls",
+      "title": "Rope And Balls",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.labraxstudio.silicone",
+      "title": "Silicone Color Match",
+      "account": "Lion Studios"
+    },
+    {
+      "appId": "makeover.merge",
+      "title": "Makeover Merge",
+      "account": "Lion Studios Plus"
+    },
+    {
+      "appId": "com.idle.sand.tycoon.inc.simulation",
+      "title": "Idle Sand Tycoon",
+      "account": "Solid Games"
+    },
+    {
+      "appId": "com.hypnocatstudio.fashionuniverse",
+      "title": "Fashion Universe",
+      "account": "VOODOO"
+    },
+    {
+      "appId": "two.player.online.games.finger.tap.battle",
+      "title": "Two Player Games: Mini Games",
+      "account": "HDuo Fun Games"
+    },
+    {
+      "appId": "com.dream.dale",
+      "title": "Dreamdale - Fairy Adventure",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.kamilbilge.ropesavior3d",
+      "title": "Rope Savior 3D",
+      "account": "Lion Studios"
+    },
+    {
+      "appId": "games.taplab.vertex",
+      "title": "Star Art: Drawing & Relaxing",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.mini.market",
+      "title": "Mini Market - Cooking Game",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.Highscoregames.Drawrocket",
+      "title": "Rocket Punch!",
+      "account": "Lion Studios"
+    },
+    {
+      "appId": "mobi.gameguru.elementflow",
+      "title": "Element Flow",
+      "account": "Lion Studios"
+    },
+    {
+      "appId": "com.game.missioncrit",
+      "title": "Squad Alpha - Action Shooting",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.playstrom.drawonepart",
+      "title": "DOP: Draw One Part",
+      "account": "SayGames Ltd"
+    },
+    {
+      "appId": "com.zplay.blade",
+      "title": "Sharpen Blade",
+      "account": "ZPLAY Games"
+    },
+    {
+      "appId": "com.cooking.games.fever.food.city.craze.dream",
+      "title": "Cooking Dream",
+      "account": "iKame Games - Zego Studio"
+    },
+    {
+      "appId": "com.dmg.packmaster",
+      "title": "Pack Master",
+      "account": "Lion Studios"
+    },
+    {
+      "appId": "holy.bible.biblegame.bibleverse.color.by.number.colorbynumber.paint.pixel.art",
+      "title": "Bible Coloring Paint By Number",
+      "account": "Oakever Games"
+    },
+    {
+      "appId": "com.blockpuzzle.classicbrickgames",
+      "title": "Block Gems: Block Puzzle Games",
+      "account": "HDuo Fun Games"
+    },
+    {
+      "appId": "e.g.com.voodoo.tribalClash",
+      "title": "Tribal Clash",
+      "account": "VOODOO"
+    },
+    {
+      "appId": "com.cell.guardians.td",
+      "title": "Cell Guardians:Tower Defense",
+      "account": "MOBIBRAIN TECHNOLOGY PTE. LTD."
+    }
+  ],
+  "removed": [],
+  "failedAccounts": [
+    {
+      "account": "4399 NET LIMITED",
+      "error": "多个发现市场均未返回可用开发者列表"
+    },
+    {
+      "account": "Teamsparta Inc.",
+      "error": "多个发现市场均未返回可用开发者列表"
+    },
+    {
+      "account": "Super Rabbit Games Corp.",
+      "error": "多个发现市场均未返回可用开发者列表"
+    },
+    {
+      "account": "DoPuz Games",
+      "error": "多个发现市场均未返回可用开发者列表"
+    }
+  ],
+  "verifiedProducts": 1061,
+  "staleProducts": [
+    {
+      "appId": "com.tsyatsya.dragonsrush",
+      "title": "com.tsyatsya.dragonsrush",
+      "account": "TsyaTsya"
+    },
+    {
+      "appId": "com.crabby.sheep.escape.out.jam.traffic.puzzle.block",
+      "title": "Sheep Jam - Escape Puzzle",
+      "account": "Supersonic Studios LTD"
+    },
+    {
+      "appId": "com.mfflourish.android",
+      "title": "Bloom Haven: Garden Glow Up",
+      "account": "MOREFUN (H.K.) LIMITED"
+    }
+  ],
+  "sensorTowerMatched": 246,
+  "sensorTowerMissing": 818
+}

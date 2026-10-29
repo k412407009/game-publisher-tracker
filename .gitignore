@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+dist/
+.public-release/
+data/raw/
+tmp/
+output/
+reports/*.png
+reports/*.tmp
+*.log
+.DS_Store
+**/.runplatform.json

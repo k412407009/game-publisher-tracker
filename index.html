@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>热门竞品厂商跟踪 · Google Play 产品雷达</title>
+  <link rel="stylesheet" href="assets/watchlist.css">
+</head>
+<body>
+  <!--
+    Assumptions:
+    1. 这是桌面优先的高密度研究工具，而不是品牌宣传页。
+    2. 下载量是 Google Play 公开区间下限；评分数与文字评论数分列。
+    3. 公司—账号关系按证据强度分层，不把推测伪装成事实。
+  -->
+  <header class="masthead">
+    <a class="wordmark" href="#top" aria-label="返回顶部">
+      <span class="wordmark-index">CREATIVE<br>INTELLIGENCE</span>
+      <span class="wordmark-title">热门竞品厂商跟踪</span>
+    </a>
+    <nav class="view-nav" aria-label="页面视图">
+      <button class="nav-button is-active" data-view="products">产品雷达</button>
+      <button class="nav-button" data-view="td">塔防观察</button>
+      <button class="nav-button" data-view="accounts">账号图谱</button>
+      <button class="nav-button" data-view="method">口径说明</button>
+    </nav>
+    <div class="freshness"><span></span><b id="freshnessText">正在读取数据</b></div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <p class="eyebrow">GOOGLE PLAY · COMPANY / ACCOUNT / PRODUCT</p>
+      <div class="hero-grid">
+        <h1>谁最近<br>上了什么？</h1>
+        <div class="hero-copy">
+          <p>追踪中轻度 RPG、塔防、格斗、卡牌融合与混合休闲赛道。公司归公司，账号归账号，产品热度回到同一张可排序的表。</p>
+          <p class="hero-note">产品发现联合覆盖多个主要 Google Play 市场；详情指标优先使用美国区基线，必要时回退至实际发现地区。下载量显示的是区间下限，不是精确值。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="view is-active" id="view-products" data-view-panel="products">
+      <div class="kpi-strip" id="kpiStrip" aria-label="资料库概览"></div>
+
+      <section class="signal-board" aria-labelledby="signalTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">RECENT SIGNALS</p>
+            <h2 id="signalTitle">最近半年上新</h2>
+          </div>
+          <p id="signalSummary" class="section-note"></p>
+        </div>
+        <div class="signal-list" id="signalList"></div>
+      </section>
+
+      <section class="database" aria-labelledby="databaseTitle">
+        <div class="section-heading database-heading">
+          <div>
+            <p class="eyebrow">SORTABLE DATABASE</p>
+            <h2 id="databaseTitle">全部跟踪产品</h2>
+          </div>
+          <div class="database-actions">
+            <span class="result-count" id="resultCount"></span>
+            <button class="outline-button" id="exportCsv">导出当前结果 CSV</button>
+          </div>
+        </div>
+
+        <div class="filters" aria-label="产品筛选">
+          <label class="search-field">
+            <span>搜索</span>
+            <input id="searchInput" type="search" placeholder="产品、公司、账号、品类" autocomplete="off">
+          </label>
+          <label>
+            <span>研究批次</span>
+            <select id="cohortFilter"><option value="">全部厂商</option><option value="june-2026">6 月双榜＋猫厂</option></select>
+          </label>
+          <label>
+            <span>公司</span>
+            <select id="companyFilter"><option value="">全部公司</option></select>
+          </label>
+          <label>
+            <span>账号</span>
+            <select id="accountFilter"><option value="">全部账号</option></select>
+          </label>
+          <label>
+            <span>赛道</span>
+            <select id="tagFilter"><option value="">全部赛道</option></select>
+          </label>
+          <label>
+            <span>最早公开</span>
+            <select id="releaseFilter">
+              <option value="all">全部时间</option>
+              <option value="183">最近半年</option>
+              <option value="365">最近一年</option>
+              <option value="unknown">日期待补</option>
+            </select>
+          </label>
+          <button class="reset-button" id="resetFilters">清空筛选</button>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th class="product-col"><button data-sort="title">产品 <span>↕</span></button></th>
+                <th><button data-sort="companyZh">公司／账号 <span>↕</span></button></th>
+                <th><button data-sort="firstPublicTs">最早公开 <span>↕</span></button></th>
+                <th>曝光信息</th>
+                <th class="numeric"><button data-sort="minInstalls">下载量下限 <span>↕</span></button></th>
+                <th class="numeric"><button data-sort="revenueCumulativeWorldwideUsd">累计营收（USD） <span>↕</span></button></th>
+                <th class="numeric"><button data-sort="ratings">评分数 <span>↕</span></button></th>
+                <th class="numeric"><button data-sort="reviews">文字评论 <span>↕</span></button></th>
+                <th class="numeric"><button data-sort="score">评分 <span>↕</span></button></th>
+                <th>赛道标签</th>
+              </tr>
+            </thead>
+            <tbody id="productRows"></tbody>
+          </table>
+        </div>
+        <div class="pagination" id="pagination"></div>
+      </section>
+    </section>
+
+    <section class="view" id="view-td" data-view-panel="td">
+      <div class="td-hero">
+        <div>
+          <p class="eyebrow">BILIBILI SERIES · TD / ROGUELIKE + TD</p>
+          <h2>塔防观察</h2>
+        </div>
+        <div><p>下方为 2026 年 2–8 月的 B 站合集历史样本，保留视频与商店证据。最新塔防产品随主库更新，可查看全库塔防筛选。</p><button class="outline-button" id="showLiveTd">查看全库最新塔防产品</button></div>
+      </div>
+      <div class="td-kpis" id="tdKpis"></div>
+
+      <section class="td-ranking" aria-labelledby="tdRankingTitle">
+        <div class="section-heading">
+          <div><p class="eyebrow">PERFORMANCE</p><h2 id="tdRankingTitle">数据表现排名</h2></div>
+          <p class="section-note">Sensor Tower：Android 包名精确匹配，Worldwide，2026-02 至 2026-08-22。</p>
+        </div>
+        <div class="table-wrap">
+          <table class="td-performance-table">
+            <thead><tr>
+              <th class="td-static-head">#</th>
+              <th><button data-td-sort="name">产品／厂商 <span>↕</span></button></th>
+              <th class="numeric"><button data-td-sort="downloads">下载估算 <span>↕</span></button></th>
+              <th class="numeric is-sorted" aria-sort="descending"><button data-td-sort="revenue">净收入估算 <span>↓</span></button></th>
+              <th><button data-td-sort="date">视频日期 <span>↕</span></button></th>
+              <th class="td-static-head">证据</th>
+            </tr></thead>
+            <tbody id="tdTopRows"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="td-library" aria-labelledby="tdLibraryTitle">
+        <div class="section-heading td-library-heading">
+          <div><p class="eyebrow">SIX-MONTH CATALOG</p><h2 id="tdLibraryTitle">合集产品清单</h2></div>
+          <span class="result-count" id="tdResultCount"></span>
+        </div>
+        <div class="td-controls">
+          <label><span>搜索</span><input id="tdSearch" type="search" placeholder="游戏、厂商、包名"></label>
+          <label><span>平台</span><select id="tdPlatform"><option value="">全部平台</option><option>Google Play</option><option>App Store</option><option>Store 待补</option></select></label>
+          <label><span>数据状态</span><select id="tdStatus"><option value="">全部状态</option><option value="sensor">Sensor Tower 已匹配</option><option value="visible">商店可见</option><option value="pending">商店待补／不可见</option></select></label>
+          <label><span>排序</span><select id="tdSort"><option value="revenue">净收入从高到低</option><option value="downloads">下载从高到低</option><option value="newest">视频最新优先</option><option value="installs">商店安装下限</option><option value="name">名称 A–Z</option></select></label>
+        </div>
+        <div class="td-card-grid" id="tdCards"></div>
+      </section>
+    </section>
+
+    <section class="view" id="view-accounts" data-view-panel="accounts">
+      <div class="section-heading account-heading">
+        <div>
+          <p class="eyebrow">RELATIONSHIP MAP</p>
+          <h2>公司—账号关联</h2>
+        </div>
+        <p class="section-note">同一公司旗下账号合并展示；每条结论保留证据强度和来源。</p>
+      </div>
+      <div class="account-summary" id="accountSummary"></div>
+      <div class="company-groups" id="companyGroups"></div>
+      <section class="unresolved" id="unresolvedSection"></section>
+    </section>
+
+    <section class="view" id="view-method" data-view-panel="method">
+      <div class="method-layout">
+        <div class="method-lead">
+          <p class="eyebrow">METHODOLOGY</p>
+          <h2>这张表能说明什么，<br>不能说明什么。</h2>
+        </div>
+        <div class="method-copy">
+          <article>
+            <span class="method-index">01</span>
+            <h3>账号枚举</h3>
+            <p>在多个主要市场读取开发者账号页并取并集；同名 Google Play 搜索仅作补充，已确认但被索引漏列的包名通过直连复查保留。账号页无法访问时保留失败状态。</p>
+          </article>
+          <article>
+            <span class="method-index">02</span>
+            <h3>逐款详情</h3>
+            <p>对每个应用在多个主流市场分别读取首次上架日期，取最早可观测值并记录对应市场。如果媒体、测试、预注册、TapTap 或第三方版本记录更早，则用可核验的最早公开时间参与排序，商店上架日期仍独立保留。</p>
+          </article>
+          <article>
+            <span class="method-index">03</span>
+            <h3>关系证据</h3>
+            <p>官方公司产品矩阵、应用官网、商店法律主体和可信行业报道交叉验证。曝光日期必须有可点击来源；时间只能精确到周时，页面会显示范围并以范围起点排序。账号迁移作为独立证据保留，不倒推一个无来源的早期日期。</p>
+          </article>
+          <article>
+            <span class="method-index">04</span>
+            <h3>限制</h3>
+            <p id="methodCaveat"></p>
+          </article>
+        </div>
+      </div>
+      <div class="data-files">
+        <h3>可复用文件</h3>
+        <a href="data/google-play-watchlist.json" download>原始 JSON</a>
+        <a href="data/exposure-events.json" download>曝光证据库</a>
+        <a href="data/exposure-review-candidates.json" download>DeepSeek 复核清单</a>
+        <a href="accounts.json" download>账号与证据配置</a>
+        <a href="reports/product-facts.md">核验说明</a>
+        <a href="reports/crawl-gap-random-dice-2.md">本次漏抓复盘</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>热门竞品厂商跟踪 · 商店资料来自 Google Play，累计营收来自 Sensor Tower 估算</p>
+    <p id="footerStamp"></p>
+  </footer>
+
+  <script src="data/td-series.js"></script>
+  <script src="data/google-play-watchlist.js"></script>
+  <script src="assets/watchlist.js?v=20261029-public"></script>
+</body>
+</html>

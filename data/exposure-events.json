@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "updatedAt": "2026-08-20",
+    "methodology": "只录入可公开访问且能与产品名、包名或开发者交叉确认的媒体曝光、测试、预注册、第三方版本记录与迁移证据。时间范围取范围起点参与排序，并明确标注精度；无法核验来源的日期不进入正式排序。",
+    "deepseekReview": {
+      "reviewedAt": "2026-08-20T02:49:53.134Z",
+      "provider": "DeepSeek",
+      "model": "deepseek-v4-flash",
+      "retrieval": "Tavily advanced search; DeepSeek labels only supplied snippets",
+      "selected": 34,
+      "completed": 34,
+      "earlierCandidates": 18,
+      "accepted": 17,
+      "rejected": [
+        {
+          "appId": "com.habby.archero",
+          "title": "Archero",
+          "reason": "只精确到年，不能证明早于同年已知日期"
+        }
+      ]
+    }
+  },
+  "apps": [
+    {
+      "appId": "archery.clash.tournament",
+      "events": [
+        {
+          "date": "2023-08-08",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "MWM商店情报显示首次发布",
+          "summary": "第三方平台MWM记录《Archery Clash!》iOS版首次发布为2023年8月8日，开发者为Voodoo。",
+          "sourceLabel": "MWM",
+          "sourceUrl": "https://mwm.ai/apps/archery-clash/6458097001",
+          "confidence": "high",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:47:15.194Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.cassette.aquapark",
+      "events": [
+        {
+          "date": "2019-02-28",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "Aquapark.io 在美国 App Store 上架",
+          "summary": "Sensor Tower 记录显示 Aquapark.io 于2019年2月28日在美国 App Store 发布。",
+          "sourceLabel": "Sensor Tower",
+          "sourceUrl": "https://app.sensortower.com/overview/1453989822?country=US",
+          "confidence": "high",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:44:13.347Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.dxx.firenow",
+      "events": [
+        {
+          "date": "2020-09-01",
+          "endDate": null,
+          "datePrecision": "month",
+          "type": "soft_launch",
+          "typeLabel": "区域软启动",
+          "title": "Axios报道Survivor.io曾于2020年9月区域发布",
+          "summary": "Axios报道称，版本历史显示该游戏2020年9月在部分地区先行发布，早于已知的2022年7月19日。",
+          "sourceLabel": "Axios",
+          "sourceUrl": "https://www.axios.com/2022/08/26/survivorio-habby-tiktok-ios-android",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:40:57.328Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.h8games.helixjump",
+      "events": [
+        {
+          "date": "2018-02-01",
+          "endDate": null,
+          "datePrecision": "month",
+          "type": "store_release",
+          "typeLabel": "商店发布",
+          "title": "CrazyGames 记录 Helix Jump 最初于2018年2月发布移动应用",
+          "summary": "CrazyGames 页面明确说明 Helix Jump 由 Voodoo 开发，最初于2018年2月作为移动应用发布。",
+          "sourceLabel": "CrazyGames",
+          "sourceUrl": "https://www.crazygames.com/game/helix-jump",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:43:59.871Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.habby.capybara",
+      "events": [
+        {
+          "date": "2024-08-30",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "soft_launch",
+          "typeLabel": "软启动",
+          "title": "Capybara GO! Defining a new genre: Social Casino RPG! Another Mobile Sensation by Habby",
+          "summary": "视频中明确提到游戏于2024年8月30日（周五）在部分市场软启动，结合开发者Habby确认。",
+          "sourceLabel": "YouTube",
+          "sourceUrl": "https://www.youtube.com/watch?v=YU5oFvqHF-M",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:45:18.632Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.higgs.cubemaster3d",
+      "events": [
+        {
+          "date": "2021-07-01",
+          "endDate": null,
+          "datePrecision": "month",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "AppBrain显示Cube Master 3D于2021年7月上架Google Play",
+          "summary": "AppBrain记录该游戏已于2021年7月在Google Play上架，早于Sensor Tower显示的2021年8月10日。",
+          "sourceLabel": "AppBrain",
+          "sourceUrl": "https://www.appbrain.com/app/cube-master-3d%C2%AE-matching-game/com.higgs.cubemaster3d",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:46:40.803Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.kadka.forknsausage",
+      "events": [
+        {
+          "date": "2019-01-05",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "MWM记录Fork N Sausage首次上架",
+          "summary": "MWM平台显示Fork N Sausage在App Store首次发布为2019年1月5日，早于Android版发布日期。",
+          "sourceLabel": "MWM",
+          "sourceUrl": "https://mwm.ai/apps/fork-n-sausage/1448360185",
+          "confidence": "high",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:49:53.134Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.loadcomplete.minitales",
+      "events": [
+        {
+          "date": "2024-12-01",
+          "endDate": null,
+          "datePrecision": "month",
+          "type": "media_exposure",
+          "typeLabel": "官方公开",
+          "title": "LoadComplete与Jellysaurus签订《Mini Tales》(暂定名)发行合约",
+          "summary": "LoadComplete官网时间线显示，2024年12月与Jellysaurus签订《Mini Tales》(暂定名)发行协议，为最早公开记录。",
+          "sourceLabel": "LoadComplete 官网",
+          "sourceUrl": "https://loadcomplete.com",
+          "confidence": "high",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:36:31.953Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        },
+        {
+          "date": "2025-09-19",
+          "endDate": "2025-09-25",
+          "datePrecision": "week",
+          "type": "third_party_listing",
+          "typeLabel": "第三方新游周报",
+          "title": "Mini Tales 出现在 2025-09-19～25 新手游清单，并指向 Google Play 加拿大区",
+          "summary": "Gamigion 的当周新游清单列出 Mini Tales、LoadComplete 与加拿大区 Google Play 链接；以周报时间窗口起点作为最早公开信号，精度为一周。",
+          "sourceLabel": "Gamigion",
+          "sourceUrl": "https://www.gamigion.com/dont-miss-these-new-mobile-games-september-19-to-25-2025/",
+          "confidence": "medium",
+          "countsTowardOrdering": true
+        },
+        {
+          "date": "2025-10-03",
+          "datePrecision": "day",
+          "type": "third_party_build",
+          "typeLabel": "第三方测试包记录",
+          "title": "APKPure 保存 Mini Tales 0.3.4 版本记录",
+          "summary": "第三方版本库记录包名 com.loadcomplete.minitales 的 0.3.4 构建，说明正式全球发行前已有可获取的测试版本。",
+          "sourceLabel": "APKPure",
+          "sourceUrl": "https://apkpure.net/mini-tales/com.loadcomplete.minitales/versions",
+          "confidence": "high",
+          "countsTowardOrdering": true
+        },
+        {
+          "date": "2026-06-25",
+          "datePrecision": "day",
+          "type": "account_migration_evidence",
+          "typeLabel": "账号迁移证据",
+          "title": "Google Play 评论提到 Early Access 版本曾在另一开发者账号下运营",
+          "summary": "用户评论称曾参与 Early Access，随后产品关闭并在另一开发者账号下重新开放；开发者回复要求提交原购买凭证核查。该证据支持迁移事实，但评论日期不作为最早曝光日期。",
+          "sourceLabel": "Google Play",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.loadcomplete.minitales&hl=en&gl=us",
+          "confidence": "medium",
+          "countsTowardOrdering": false
+        }
+      ]
+    },
+    {
+      "appId": "com.nomonkeys.ballblast",
+      "events": [
+        {
+          "date": "2018-05-11",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "Ball Blast Cannon blitz mania 美国 App Store 上架",
+          "summary": "Sensor Tower 显示该游戏美国 App Store 上架日期为 2018-05-11，全球为 2018-05-12。",
+          "sourceLabel": "Sensor Tower",
+          "sourceUrl": "https://app.sensortower.com/overview/1383187127?country=US",
+          "confidence": "high",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:46:53.634Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.percent.aos.luckydefense",
+      "events": [
+        {
+          "date": "2024-04-02",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "Lucky Defense 首次被商店跟踪平台检测到",
+          "summary": "AppMagic 页面显示该应用于2024-04-02首次被检测到，早于官方发布日2024-05-23。",
+          "sourceLabel": "AppMagic",
+          "sourceUrl": "https://appmagic.rocks/google-play/lucky-defense/com.percent.aos.luckydefense?hl=",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:41:38.653Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.percent.aos.randomdice2",
+      "events": [
+        {
+          "date": "2026-06-01",
+          "endDate": null,
+          "datePrecision": "month",
+          "type": "soft_launch",
+          "typeLabel": "软启动/提前上架",
+          "title": "Random Dice 2 6月上架部分国家及地区双平台商店",
+          "summary": "点点数据文章指出，今年6月中上旬《Random Dice 2》在部分国家及地区双平台上架，随后进行小规模投放。",
+          "sourceLabel": "点点数据",
+          "sourceUrl": "https://www.diandian.com/news/E4ko91zn1sZyXRk6Z5IW",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:40:31.713Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.tarboosh.collectemall",
+      "events": [
+        {
+          "date": "2021-06-21",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "Collect Em All! Clear the Dots 美国 App Store 上架",
+          "summary": "Sensor Tower 显示该游戏于2021年6月21日在美国App Store发布，与MWM的首次发布日一致，开发者均为Voodoo。",
+          "sourceLabel": "Sensor Tower",
+          "sourceUrl": "https://app.sensortower.com/overview/1570641170?country=US",
+          "confidence": "high",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:46:04.313Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.vincentb.MobControl",
+      "events": [
+        {
+          "date": "2021-04-13",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "Mob Control 在美国区 App Store 上架",
+          "summary": "Sensor Tower 显示该游戏美国区发布日期为 2021年4月13日，全球发布为5月12日，开发者 Voodoo。",
+          "sourceLabel": "Sensor Tower",
+          "sourceUrl": "https://app.sensortower.com/overview/1562817072?country=US",
+          "confidence": "high",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:38:35.337Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "com.xq.archeroii",
+      "events": [
+        {
+          "date": "2024-06-14",
+          "endDate": null,
+          "datePrecision": "day",
+          "type": "soft_launch",
+          "typeLabel": "软启动",
+          "title": "MiniReview记录Archero 2 iOS版发布",
+          "summary": "第三方站点MiniReview页面显示，Archero 2于2024年6月14日在iOS平台发布，早于全球发布，属于软启动。",
+          "sourceLabel": "MiniReview",
+          "sourceUrl": "https://minireview.io/upcoming/archero-2",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:45:54.664Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "dasi.prs2.lumberchopper",
+      "events": [
+        {
+          "date": "2024-09-01",
+          "endDate": null,
+          "datePrecision": "month",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "Idle Lumber Chopper Empire Inc 上架 Google Play",
+          "summary": "AppBrain 记录该应用自2024年9月起在 Google Play 可用，具体日期未标注。",
+          "sourceLabel": "AppBrain",
+          "sourceUrl": "https://www.appbrain.com/app/idle-lumber-chopper-empire-inc/dasi.prs2.lumberchopper",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:49:10.118Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "games.vaveda.militaryoverturn",
+      "events": [
+        {
+          "date": "2021-06-01",
+          "endDate": null,
+          "datePrecision": "month",
+          "type": "store_release",
+          "typeLabel": "商店上架",
+          "title": "AppBrain记录该游戏于2021年6月在Google Play上架",
+          "summary": "AppBrain页面显示该游戏自2021年6月起在Google Play上架，是当前可核验的最早公开时间。",
+          "sourceLabel": "AppBrain",
+          "sourceUrl": "https://www.appbrain.com/app/tower-war-tactical-conquest/games.vaveda.militaryoverturn",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:41:56.352Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    },
+    {
+      "appId": "io.voodoo.paper2",
+      "events": [
+        {
+          "date": "2018-08-01",
+          "endDate": null,
+          "datePrecision": "month",
+          "type": "third_party_build",
+          "typeLabel": "第三方版本记录",
+          "title": "CrazyGames 显示 Paper.io 2 iOS 版 2018年8月发布",
+          "summary": "CrazyGames 页面标注 Paper.io 2 为 Voodoo 开发，iOS 版于 2018 年 8 月发布，早于当前已知的 2018-09-12。",
+          "sourceLabel": "CrazyGames",
+          "sourceUrl": "https://www.crazygames.com/game/paper-io-2",
+          "confidence": "medium",
+          "countsTowardOrdering": true,
+          "retrievalChannel": "Tavily + DeepSeek",
+          "reviewedBy": "DeepSeek deepseek-v4-flash",
+          "reviewedAt": "2026-08-20T02:43:37.883Z",
+          "reviewNote": "模型仅对 Tavily 返回的公开网页摘要做结构化标注；来源 URL 经程序限定必须来自检索结果。"
+        }
+      ]
+    }
+  ]
+}
