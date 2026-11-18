@@ -13,10 +13,10 @@
       "sensortower-cumulative-part-2.csv"
     ],
     "matchedCount": 246,
-    "unavailableCount": 818,
+    "unavailableCount": 878,
     "totalRevenueUsd": 1313902927.92,
     "methodology": "Sensor Tower Google Play 全球收入估算，按应用可用的全部历史月度数据求和。这是应用商店收入估算，不包含广告收入，不等于净利润或发行商财报。缺失表示导出中无历史收入行，不代表零收入。",
-    "carriedForwardAt": "2026-10-29T06:43:51.501Z",
+    "carriedForwardAt": "2026-11-18T04:04:58.506Z",
     "coverageNote": "Google Play 刷新后按当前在架产品重算覆盖数；新增产品需通过新的 Sensor Tower 导出补数。"
   },
   "apps": [
@@ -2481,9 +2481,299 @@
       "sensorTowerCumulativeStatus": "matched"
     },
     {
+      "appId": "com.studio501.necroarmy",
+      "title": "Necro Army",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.nep.tr.puzzle.tapetap",
+      "title": "Tape Pop!",
+      "account": "TREEPLLA",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.nep.tr.hybrid.animalwarriors",
+      "title": "Animal Warriors",
+      "account": "TREEPLLA",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.rockbite.hwpottery",
+      "title": "Clayscapes: Pottery",
+      "account": "Rockbite Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "arrows.color.match.logic.puzzle",
+      "title": "Bubble Go: Maze Jam Puzzle",
+      "account": "Higgs Studio",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "crab.jam.hunt.blast.block.pixel.puzzle",
+      "title": "Crab Hunt: Pixel Blast Puzzle",
+      "account": "Higgs Studio",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.moomow",
+      "title": "Moo Mow",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.sinkyard",
+      "title": "Sinkyard",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.loopsnake",
+      "title": "Loop Snake",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.rockbite.piratewaters",
+      "title": "Pirate Raiders",
+      "account": "Rockbite Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.harvestcutter",
+      "title": "Harvest Cutter",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "puzzle.ant.sweet.loop",
+      "title": "Ants Sweet Loop!",
+      "account": "Bravestars Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "puzzle.ants.save.princess",
+      "title": "Ants Save Princess",
+      "account": "Bravestars Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "puzzle.wood.escape",
+      "title": "Wood Escape Puzzle!",
+      "account": "Bravestars Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.oakever.wordtile",
+      "title": "Wordsect - Word Puzzle Games",
+      "account": "Oakever Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.slicesky",
+      "title": "Slice Sky",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.game.funcorps",
+      "title": "Harvest Heroes: Garden TD",
+      "account": "NLABSOFT Co., Ltd.",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.blockcrusade",
+      "title": "Block Crusade",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.hypermonkgames.LastBridge",
+      "title": "Last Bridge",
+      "account": "RISEN GAMES OYUN YAZILIM PAZARLAMA VE DANISMANLIK",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.block.pop.out.puzzle",
+      "title": "Color Block Pop Out",
+      "account": "Cobby Labs",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.findten",
+      "title": "Find Ten!",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "puzzle.happy.tidy.room",
+      "title": "Happy Tidy Room",
+      "account": "Bravestars Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "slime.tower.defense.idle.games",
+      "title": "Slime Force - Idle RPG",
+      "account": "Perfeggs",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.nep.tr.puzzle.blockarrow",
+      "title": "Cube Arrows - 3D Block Escape",
+      "account": "TREEPLLA",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.greatcatscape",
+      "title": "Great Catscape",
+      "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.hypermonkgames.BridgeWar",
+      "title": "Bridge War!",
+      "account": "RISEN GAMES OYUN YAZILIM PAZARLAMA VE DANISMANLIK",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.hg.bid.tycoon",
+      "title": "The Grand Bid: Auction Tycoon",
+      "account": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.honey.hunt.puzzle",
       "title": "Honey Hunt",
       "account": "Higgs Studio",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.nep.tr.hybrid.jengasort",
+      "title": "Tumble Sort!",
+      "account": "TREEPLLA",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.studio501.spacewars",
+      "title": "Space Wars",
+      "account": "Barbozo",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -2501,9 +2791,29 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.fc.ai.storage.clean.storageclean.optimize",
+      "title": "CleanX: AI Storage Optimizer",
+      "account": "FALCON GAME",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "puzzle.sand.bus.escape",
       "title": "Sand Bus Escape!",
       "account": "Bravestars Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.gameoverflow.seaplayground",
+      "title": "Sea Playground: Ship Sandbox",
+      "account": "Freeplay Inc",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -2561,6 +2871,26 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.oakever.amaze3d",
+      "title": "Amaze Clear 3D: Arrow Cube",
+      "account": "Oakever Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.oakever.smashaway",
+      "title": "Smash Away!",
+      "account": "Oakever Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.nep.tr.hybrid.punchhero",
       "title": "Punch Hero",
       "account": "TREEPLLA",
@@ -2581,9 +2911,9 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.oakever.amaze3d",
-      "title": "Amaze Clear 3D: Arrow Cube",
-      "account": "Oakever Games",
+      "appId": "com.superbox.aos.catshooter",
+      "title": "Meow Blast!",
+      "account": "SUPERBOX Inc",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -2591,9 +2921,9 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.superbox.aos.catshooter",
-      "title": "Meow Blast!",
-      "account": "SUPERBOX Inc",
+      "appId": "puzzle.swarm.sort",
+      "title": "Swarm Sort!",
+      "account": "Bravestars Games",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -2631,8 +2961,8 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "puzzle.swarm.sort",
-      "title": "Swarm Sort!",
+      "appId": "puzzle.crowd.bus.flow",
+      "title": "Crowd Bus Flow!",
       "account": "Bravestars Games",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -2644,16 +2974,6 @@
       "appId": "net.pixelrabbit.cs",
       "title": "Life is a Roguelike",
       "account": "PIXEL RABBIT LIMITED",
-      "revenueCumulativeWorldwideUsd": null,
-      "downloadsCumulativeWorldwide": null,
-      "sensorTowerCumulativeStart": null,
-      "sensorTowerCumulativeEnd": null,
-      "sensorTowerCumulativeStatus": "unavailable"
-    },
-    {
-      "appId": "puzzle.crowd.bus.flow",
-      "title": "Crowd Bus Flow!",
-      "account": "Bravestars Games",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -2701,6 +3021,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.studio6.toystore",
+      "title": "Tidy Everything!",
+      "account": "SayGames Ltd",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.ring.master",
       "title": "Ring Master: Rotate Circles",
       "account": "SayGames Ltd",
@@ -2724,6 +3054,16 @@
       "appId": "com.studio501.stackingcity",
       "title": "Stacking City",
       "account": "Barbozo",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.hw.birdfly.sort.puzzle",
+      "title": "BirdFly: Sort Puzzle",
+      "account": "Solid Games",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -2771,6 +3111,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.LuB.ImmortalParty",
+      "title": "Immortal Party: Pixel RPG Game",
+      "account": "Freeplay Inc",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.nep.tr.hybrid.smashtoy",
       "title": "Toy Smash!",
       "account": "TREEPLLA",
@@ -2801,8 +3151,8 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.topebox.games.blocklords",
-      "title": "Block Lords",
+      "appId": "com.topebox.games.snakeeatall",
+      "title": "Snake Eat All",
       "account": "Topebox",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -2811,8 +3161,8 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.topebox.games.snakeeatall",
-      "title": "Snake Eat All",
+      "appId": "com.topebox.games.blocklords",
+      "title": "Block Lords",
       "account": "Topebox",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -2992,7 +3342,7 @@
     },
     {
       "appId": "com.superpixel.scrap",
-      "title": "Junk Hero",
+      "title": "Junk Hero - New Server Open!",
       "account": "SUPERBOX Inc",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -3261,9 +3611,9 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.moonship.arrow.flow",
-      "title": "Arrow Flow: Tap Away Puzzle",
-      "account": "Moon Ship Studio",
+      "appId": "com.percent.aos.randomdice2",
+      "title": "Random Dice 2",
+      "account": "111%",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -3271,9 +3621,9 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.percent.aos.randomdice2",
-      "title": "Random Dice 2",
-      "account": "111%",
+      "appId": "com.moonship.arrow.flow",
+      "title": "Arrow Flow: Tap Away Puzzle",
+      "account": "Moon Ship Studio",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -3441,6 +3791,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.playstrom.mtd",
+      "title": "My Train Defense",
+      "account": "SayGames Ltd",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "ig.com.fruit.match",
       "title": "Fruit Match: Triple Match",
       "account": "iKame Games - Zego Studio",
@@ -3562,18 +3922,8 @@
     },
     {
       "appId": "com.ig.foodjam",
-      "title": "Food Jam",
+      "title": "Food Jam: Sort Puzzle",
       "account": "iKame Games - Zego Studio",
-      "revenueCumulativeWorldwideUsd": null,
-      "downloadsCumulativeWorldwide": null,
-      "sensorTowerCumulativeStart": null,
-      "sensorTowerCumulativeEnd": null,
-      "sensorTowerCumulativeStatus": "unavailable"
-    },
-    {
-      "appId": "com.rockbite.arcworld",
-      "title": "Repopulation",
-      "account": "Rockbite Games",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -3584,6 +3934,16 @@
       "appId": "com.wave.infinitecrafter",
       "title": "Infinite Crafter (TD)",
       "account": "Rollic Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.rockbite.arcworld",
+      "title": "Repopulation",
+      "account": "Rockbite Games",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -3642,7 +4002,7 @@
     },
     {
       "appId": "com.fc.zoodoku.sodoku.puzzle",
-      "title": "Zoodoku!",
+      "title": "Zoozic - Brain Puzzle Games",
       "account": "FALCON GAME",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -4611,6 +4971,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.DoubleBubble.DBChampionsJourney",
+      "title": "Champion's Journey",
+      "account": "Rollic Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "fyd.mz.fydengg",
       "title": "Maple Dungeon",
       "account": "Five  Elements",
@@ -4681,9 +5051,9 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.game.sortfactory",
-      "title": "Sort Factory",
-      "account": "Rollic Games",
+      "appId": "md.petrupostolachi.trashventureidle",
+      "title": "Idle Trash Masters",
+      "account": "VOODOO",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -4691,9 +5061,9 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "md.petrupostolachi.trashventureidle",
-      "title": "Idle Trash Masters",
-      "account": "VOODOO",
+      "appId": "com.game.sortfactory",
+      "title": "Sort Factory",
+      "account": "Rollic Games",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -4754,6 +5124,16 @@
       "appId": "com.oakever.jigsawcard",
       "title": "Jigsawcard Solitaire Puzzle",
       "account": "Oakever Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.fc.p.to.annoying.puzzle.ultimate.brain.tricky.test",
+      "title": "Think Outside: Prank Puzzle",
+      "account": "FALCON GAME",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -4982,7 +5362,7 @@
     },
     {
       "appId": "com.ig.skewer.jam.food.sort",
-      "title": "Skewer Jam: Food Sort",
+      "title": "Skewer Jam: Food Game",
       "account": "iKame Games - Zego Studio",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -4994,6 +5374,16 @@
       "appId": "com.AppFore.BubbleWordJam",
       "title": "Bubble Word Jam",
       "account": "Lion Studios Plus",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.grayclover.rulethefrost",
+      "title": "Frozia: Frozen Survival",
+      "account": "Supercent, Inc.",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -5271,6 +5661,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.aredstudio.antkingdom",
+      "title": "Ant Kingdom: Colony Simulator",
+      "account": "Supercent, Inc.",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.Manababa.RandomSpinDEF",
       "title": "Spin Spin Defense",
       "account": "TREEPLLA",
@@ -5291,6 +5691,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "dasi.prs5.farmmanager",
+      "title": "Daily Farm: Crop Tycoon",
+      "account": "Supercent, Inc.",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.semruk.harvestking",
       "title": "Harvest King: Farm TD Strategy",
       "account": "Homa",
@@ -5302,7 +5712,7 @@
     },
     {
       "appId": "com.spellbindgames.doomsquad",
-      "title": "Rush Attack",
+      "title": "Rush Attack: Zombie Shooter",
       "account": "Supercent, Inc.",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -5931,6 +6341,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.superatom.airdefenseidledefense",
+      "title": "Air Defense - TDS",
+      "account": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.funreal.corporatetycoon",
       "title": "Office Life: Idle Tycoon Games",
       "account": "Supercent, Inc.",
@@ -5972,7 +6392,7 @@
     },
     {
       "appId": "com.pgfight.an.tw",
-      "title": "Slack Off Survivor-2nd Anniv.",
+      "title": "Slack Off Survivor-Collab",
       "account": "MOREFUN (H.K.) LIMITED",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -6871,6 +7291,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "io.superbrick.masterhospital",
+      "title": "Master Hospital",
+      "account": "Supercent, Inc.",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.fc.p.hk.knot.tangle.rope.twist.puzzle",
       "title": "Tangled Line: Knot Twisted",
       "account": "FALCON GAME",
@@ -6884,6 +7314,16 @@
       "appId": "com.tree.idle.cat.wood",
       "title": "Lumbercat: Cute Idle Tycoon",
       "account": "TREEPLLA",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.dlitegames.terminalmaster",
+      "title": "Terminal Master - Bus Tycoon",
+      "account": "Supercent, Inc.",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -6981,6 +7421,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.idle.food.venture.fast",
+      "title": "Foodventure Inc: Idle Tycoon",
+      "account": "SayGames Ltd",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.hortor.fejsf.korea",
       "title": "동글동글 거위헬스장",
       "account": "hortor games",
@@ -7021,6 +7471,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.EternalStudio.SurvivorZ",
+      "title": "Survivor Z: Zombie Survival",
+      "account": "Homa",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.eockr.google",
       "title": "EOC: 제국정복",
       "account": "4399 KOREA",
@@ -7034,6 +7494,16 @@
       "appId": "com.onebutton.mrsuper2",
       "title": "The Superhero League 2",
       "account": "Lion Studios",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.lilyxgame.cleanit",
+      "title": "Clean It: Cleaning Games",
+      "account": "Homa",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -7351,6 +7821,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.idle.orbital.marble",
+      "title": "Idle Orbital Marble",
+      "account": "Solid Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.game5mobile.sticker",
       "title": "Sticker Book: Color By Number",
       "account": "Lion Studios Plus",
@@ -7434,6 +7914,16 @@
       "appId": "com.rockbite.idlemoney",
       "title": "Space Menu: Idle Adventure",
       "account": "Rockbite Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "io.supercent.toysrus",
+      "title": "My Toy Shop!",
+      "account": "Supercent, Inc.",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -8081,6 +8571,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.heli.monsters",
+      "title": "Heli Monsters - Giant Hunter",
+      "account": "SayGames Ltd",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.rhythmdance.taptile.rt",
       "title": "Rolling Twins: Music Ball Rush",
       "account": "Cobby Labs",
@@ -8134,6 +8634,16 @@
       "appId": "coloring.draw.drawing.games",
       "title": "Princess Coloring:Drawing Game",
       "account": "HDuo Fun Games",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.homa.free.solitaire.card.game",
+      "title": "Solitaire Classic – Klondike",
+      "account": "Homa",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -8821,6 +9331,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.gamestart.moshquito",
+      "title": "Moshquito!",
+      "account": "Lion Studios",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.tcg.AgentGrapple",
       "title": "Agent Grapple",
       "account": "Supersonic Studios LTD",
@@ -9064,6 +9584,16 @@
       "appId": "com.paurau.MakeHer",
       "title": "Move People",
       "account": "Supersonic Studios LTD",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.bulkybrains.mashuphero",
+      "title": "Mashup Hero: Superhero Games",
+      "account": "Homa",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -9351,6 +9881,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.herocraft.game.free.solitaire.tribe",
+      "title": "Solitaire Tribes：Tripeaks game",
+      "account": "RETRO WAVE PUBLISHING LIMITED",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.feofun.elementalmaster",
       "title": "Elemental Master",
       "account": "Supersonic Studios LTD",
@@ -9504,6 +10044,16 @@
       "appId": "com.Lightneer.BazookaBoy",
       "title": "Bazooka Boy",
       "account": "Supersonic Studios LTD",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.nak.gamepack",
+      "title": "Draw Duel",
+      "account": "Lion Studios",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -9731,6 +10281,16 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
+      "appId": "com.stealthgame.master",
+      "title": "Stealth Master: Assassin Ninja",
+      "account": "SayGames Ltd",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
       "appId": "com.lionstudios.mrninja",
       "title": "Mr Ninja - Slicey Puzzles",
       "account": "Lion Studios",
@@ -9794,6 +10354,26 @@
       "appId": "com.game.sortit3d",
       "title": "Sort It 3D",
       "account": "Supersonic Studios LTD",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.BallGames.Woodturning",
+      "title": "Woodturning",
+      "account": "VOODOO",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.majorfrank.blendit",
+      "title": "Blendy! - Juicy Simulation",
+      "account": "Lion Studios",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -9974,6 +10554,16 @@
       "appId": "com.superbox.aos.jewelspharaoh",
       "title": "Jewels Pharaoh : Match 3",
       "account": "SUPERBOX Inc",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.newsudoku.number.maze",
+      "title": "Sudoku Joy: Sudoku Puzzle",
+      "account": "HDuo Fun Games",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -10511,16 +11101,6 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.fogrout.td.game",
-      "title": "Fogrout: Survival Defense",
-      "account": "Perfeggs",
-      "revenueCumulativeWorldwideUsd": null,
-      "downloadsCumulativeWorldwide": null,
-      "sensorTowerCumulativeStart": null,
-      "sensorTowerCumulativeEnd": null,
-      "sensorTowerCumulativeStatus": "unavailable"
-    },
-    {
       "appId": "com.rhythm.magic.guitar.piano.tiles.dance.rush.hop.music.game",
       "title": "Magic Guitar: Edm Music Game",
       "account": "Cobby Labs",
@@ -10541,9 +11121,9 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "e.g.com.voodoo.tribalClash",
-      "title": "Tribal Clash",
-      "account": "VOODOO",
+      "appId": "com.fogrout.td.game",
+      "title": "Fogrout: Survival Defense",
+      "account": "Perfeggs",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -10551,9 +11131,9 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.candy.royal.puzzle.free.games",
-      "title": "Gem Mania",
-      "account": "NOODLE GAMES LIMITED",
+      "appId": "e.g.com.voodoo.tribalClash",
+      "title": "Tribal Rush",
+      "account": "VOODOO",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
@@ -10571,8 +11151,8 @@
       "sensorTowerCumulativeStatus": "unavailable"
     },
     {
-      "appId": "com.brawl.merge.fight.battle",
-      "title": "Backpack Stars",
+      "appId": "com.candy.royal.puzzle.free.games",
+      "title": "Gem Mania",
       "account": "NOODLE GAMES LIMITED",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
@@ -10624,6 +11204,26 @@
       "appId": "com.sort.food.match.triple",
       "title": "Cooking Feast",
       "account": "NOODLE GAMES LIMITED",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.brawl.merge.fight.battle",
+      "title": "Backpack Stars",
+      "account": "NOODLE GAMES LIMITED",
+      "revenueCumulativeWorldwideUsd": null,
+      "downloadsCumulativeWorldwide": null,
+      "sensorTowerCumulativeStart": null,
+      "sensorTowerCumulativeEnd": null,
+      "sensorTowerCumulativeStatus": "unavailable"
+    },
+    {
+      "appId": "com.superbox.mergemysteryresort",
+      "title": "Merge Mystery : Resort",
+      "account": "SUPERBOX Inc",
       "revenueCumulativeWorldwideUsd": null,
       "downloadsCumulativeWorldwide": null,
       "sensorTowerCumulativeStart": null,
